@@ -1,2 +1,2 @@
-# propolis-node-system-mem
+# propolis-node-library-system-mem
 Propolis: Library: System: Memory Information
